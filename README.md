@@ -1,13 +1,14 @@
 # FYD Mic Calibration Tool — 펌웨어 (Firmware)
 
-FPGA 보드(**Arty S7-25 / xc7s25csga324**)용 **펌웨어 이미지(`.mcs`)** 배포 저장소입니다.
+FPGA 보드(**Arty S7-25 / xc7s25csga324**, **Arty S7-50 / xc7s50csga324**)용 **펌웨어 이미지(`.mcs`, `.bit`)** 배포 저장소입니다.
 앱 인스톨러와 독립적으로 펌웨어 버전을 관리합니다.
 
 ## 다운로드
 
 👉 **[Releases](../../releases)** 에서 보드에 맞는 펌웨어를 받으세요.
 
-- 최신: `FYD_Caltool_ARTYS725_v1_5_2604071058.mcs` (tag `fw-v1.5`)
+- Arty S7-25: `FYD_Caltool_ARTYS725_v1_5_2604071058.mcs` (tag `fw-v1.5`)
+- Arty S7-50: `FYD_Caltool_ARTYS750_v1_5_2606231311.mcs` / `.bit` (tag `fw-v1.5-artys750`)
 
 ## 적용 방법
 
